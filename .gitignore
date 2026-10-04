@@ -4,7 +4,7 @@ cache/
 cache_hardhat/
 broadcast/
 
-# Foundry dependencies (managed as git submodules, not committed)
+# Foundry dependencies (managed as git submodules)
 lib/
 
 # ============ Environment / Secrets ============
